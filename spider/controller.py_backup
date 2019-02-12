@@ -1,0 +1,139 @@
+import data_getter, data_selector, math, time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
+
+class spider_controller:
+    running_companies = 0
+    running_company = 0
+    running_jobs = 0
+    running_company_result = 0
+    running_jobs_result = 0
+    signal = threading.Lock()
+    pool = ThreadPoolExecutor(max_workers=25)
+    companies_tasks = []
+    company_tasks = []
+    jobs_tasks = []
+    s_pool = ThreadPoolExecutor(max_workers=100)
+    s_company_task = []
+    s_jobs_task=[]
+    t_pool = ThreadPoolExecutor(max_workers=5)
+    threads = []
+
+#开始爬取所有公司信息，创建接收器进程
+    def start(self):
+        total = data_getter.companies_total()
+        for page in range(1, math.ceil(total/20)):
+            self.companies_tasks.append(self.pool.submit(data_getter.companies_list, page))
+            if self.signal.acquire():
+                self.running_companies += 1
+                self.signal.release()
+            print("running_companies:%d"%self.running_companies)
+            break
+        self.threads.append(self.t_pool.submit(self.companies_reciever))
+        while(len(self.company_tasks) == 0):
+            pass
+        self.threads.append(self.t_pool.submit(self.company_reciever))
+        while(len(self.jobs_tasks) == 0):
+            pass
+        self.threads.append(self.t_pool.submit(self.jobs_reciever))
+        while(len(self.s_jobs_task) == 0):
+            pass
+        self.threads.append(self.t_pool.submit(self.jobs_result_reviever))
+        while(len(self.s_company_task) == 0):
+            pass
+        self.threads.append(self.t_pool.submit(self.company_result_reciever))
+
+    #接收返回的20条公司详情页面地址，创建新进程访问公司详情以及公司正在招聘的职位
+    def companies_reciever(self):
+        for task in as_completed(self.companies_tasks):
+            result = task.result()
+            for company in result:
+                self.company_tasks.append(self.pool.submit(data_getter.company_detail, company))
+                if self.signal.acquire():
+                    self.running_company += 1
+                    self.signal.release()
+                print("running_company:%d"%self.running_company)
+                self.jobs_tasks.append(self.pool.submit(data_getter.company_jobs, company))
+                if self.signal.acquire():
+                    self.running_jobs += 1
+                    self.signal.release()
+                print("running_jobs:%d"%self.running_jobs)
+            if self.signal.acquire():
+                self.running_company -= 1
+                self.signal.release()
+            print("running_companies:%d"%self.running_companies)
+
+    #接收公司详情页面的返回数据，创建新进程分析页面抓取有用信息
+    def company_reciever(self):
+        for task in as_completed(self.company_tasks):
+            self.s_company_task.append(self.s_pool.submit(data_selector.company_detail, task.result()))
+            if self.signal.acquire():
+                self.running_company_result += 1
+                self.signal.release()
+            print("running_company_result:%d"%self.running_company_result)
+            while self.running_companies > 0:
+                if self.running_company == 1:
+                    time.sleep(5)
+                else:
+                    break
+            if self.signal.acquire():
+                self.running_company -= 1
+                self.signal.release()
+            print("running_company:%d"%self.running_company)
+
+    #接收招聘信息页面的返回数据，创建新进程分析页面抓取有用数据
+    def jobs_reciever(self):
+        for task in as_completed(self.jobs_tasks):
+            self.s_jobs_task.append(self.s_pool.submit(data_selector.jobs_list, task.result()))
+            if self.signal.acquire():
+                self.running_jobs_result += 1
+                self.signal.release()
+            print("running_jobs_result:%d"%self.running_jobs_result)
+            while self.running_companies > 0:
+                if self.running_jobs == 1:
+                    time.sleep(5)
+                else:
+                    break
+            if self.signal.acquire():
+                self.running_jobs -= 1
+                self.signal.release()
+            print("running_jobs:%d"%self.running_jobs)
+
+    #接收分析好的职位数据并输出
+    def jobs_result_reviever(self):
+        for task in as_completed(self.s_jobs_task):
+            print(2)
+            while self.running_jobs > 0:
+                if self.running_jobs_result == 1:
+                    time.sleep(5)
+                else:
+                    break
+            if self.signal.acquire():
+                self.running_jobs_result -= 1
+                self.signal.release()
+            print("running_jobs:%d"%self.running_jobs)
+
+    #接受分析好的公司详情并输出
+    def company_result_reciever(self):
+        for task in as_completed(self.s_company_task):
+            print(1)
+            while self.running_company > 0:
+                if self.running_company_result == 1:
+                    time.sleep(5)
+                else:
+                    break
+            if self.signal.acquire():
+                self.running_company_result -= 1
+                self.signal.release()
+            print("running_company_result:%d"%self.running_company_result)
+
+if __name__ == "__main__":
+    controller = spider_controller()
+    controller.start()
+    for thread in as_completed(controller.threads):
+        pass
+    print(len(controller.companies_tasks))
+    print(len(controller.company_tasks))
+    print(len(controller.s_company_task))
+    print(len(controller.jobs_tasks))
+    print(len(controller.s_jobs_task))

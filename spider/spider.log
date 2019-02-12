@@ -1,0 +1,75 @@
+{'u_id': '586301', 'name': 'Peter Kelly', 'title': 'Co-Founder / Advisor / Former Head of Global Business Development ', 'bio': 'Senior Business Development Executive, ', 'workfor':'426804'}
+{"title":["Ensure this field has no more than 64 characters."]}
+^[[Cpage 3 is finished
+page 2 is finished
+page 5 is finished
+page 4 is finished
+{'u_id': '451780', 'name': 'John Kim', 'title': '', 'bio': '\nManaging Partner ', 'workfor': '4048324'}
+{"u_id":["user with this 用户ID already exists."]}
+page 1 is finished
+page 7 is finished
+page 6 is finished
+page 8 is finished
+page 9 is finished
+{'u_id': '57038', 'name': 'Bill Gross', 'title': '', 'bio': '\nFounder ', 'workfor': '479882'}
+{"u_id":["user with this 用户ID already exists."]}
+page 10 is finished
+{'u_id': '43', 'name': 'Paul Bragiel', 'title': 'Partner', 'bio': 'Founding Partner at ', 'workfor': '37846'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '34935', 'name': 'Adam Pisoni', 'title': 'Employee', 'bio': 'Founder & CEO of Always Be Learning. Previously CTO & Co Founder of ', 'workfor': '32545'}
+{"u_id":["user with this 用户ID already exists."]}
+page 12 is finished
+page 13 is finished
+{'u_id': '27072', 'name': 'Flight.VC Syndicate', 'title': '', 'bio': '\n5 $1B + announced exits \nInvestor:  Ripple, Brave, Polychain, Paypal, Filecoin, Civic, \nLinkedin, Cruise, Dollar Shave Club  Wealthfront, Discord, Fastly\n', 'workfor': '553664'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '156632', 'name': 'Shawn Merani', 'title': '', 'bio': '\nFounder ', 'workfor': '553664'}
+{"u_id":["user with this 用户ID already exists."]}
+page 11 is finished
+{'u_id': '67', 'name': 'Howard Lindzon', 'title': '', 'bio': '\nPublic & private market investor. Founder/CEO, ', 'workfor': '32817'}
+{"u_id":["user with this 用户ID already exists."]}
+page 14 is finished
+page 15 is finished
+{'u_id': '148490', 'name': 'Michael Malone', 'title': '', 'bio': 'Worked at ', 'workfor': '32426'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '163569', 'name': 'Angela Hsiao', 'title': '', 'bio': 'Lead PM ', 'workfor': '32398'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '30437', 'name': 'Noah Tutak', 'title': '', 'bio': 'VP, Operations ', 'workfor': '34966'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '237055', 'name': 'Melinda Chung', 'title': '', 'bio': 'Leader with 10+ years experience across product, marketing and strategy', 'workfor': '35733'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '153002', 'name': 'Mike Lu', 'title': '', 'bio': 'CEO ', 'workfor': '35520'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '5148684', 'name': 'Blair Kunkel', 'title': 'Entertainment Partner - YouTube - Http://www.youtube.com/theweeklygrind', 'bio': 'Internet ninja | social media junkie | musician | songwriter | freelance marketing | Blair Kunkel can help: ', 'workfor': '35844'}
+{"title":["Ensure this field has no more than 64 characters."]}
+{'u_id': '6313020', 'name': 'Jaclyn Koshofer', 'title': 'Administrative Assistant, IT Services (Contractor / Long Term Temp)', 'bio': 'BS Arts Management (minors in Theatre and Telecommunications). Experience in arts, entertainment, media, events, management, marketing, and communications.', 'workfor': '35844'}
+{"title":["Ensure this field has no more than 64 characters."]}
+{'u_id': '173651', 'name': 'Eric Tilenius', 'title': '', 'bio': '3x Startup CEO (all successful exits), 2x Founder, VC, Angel Investor + Zynga, Intuit, Oracle', 'workfor': '37334'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '4865803', 'name': 'Kathryn Kendall', 'title': 'Program Director, Client Services & Strategic Initiatives; Senior Director, Customer Strategy', 'bio': 'Harvard MBA; experienced consultant (economic, management, strategy); most recently working in growth phase health/tech company.', 'workfor': '37397'}
+{"title":["Ensure this field has no more than 64 characters."]}
+page 16 is finished
+{'u_id': '158772', 'name': 'Ben Siscovick', 'title': 'General Partner', 'bio': 'CEO ', 'workfor': '36581'}
+{"u_id":["user with this 用户ID already exists."]}
+page 17 is finished
+Traceback (most recent call last):
+  File "controller.py", line 56, in <module>
+    companies_list()
+  File "controller.py", line 13, in companies_list
+    print(task.result())
+  File "/usr/lib/python3.6/concurrent/futures/_base.py", line 425, in result
+    return self.__get_result()
+  File "/usr/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "controller.py", line 16, in every_page
+    companies = data_getter.companies_list(page)
+  File "/mnt/sdd3/优趣工作室/angelco/spider/data_getter.py", line 60, in companies_list
+    for c_id in search_data['ids']:
+KeyError: 'ids'
+{'u_id': '93597', 'name': 'Jason Phillips', 'title': '', 'bio': 'Ad Tech Sales Leader. Worked at ', 'workfor': '32339'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '84496', 'name': 'Jason Shellen', 'title': '', 'bio': '\nMost recently, Head of Platform Product at @SlackHQ - Previously started ', 'workfor': '32081'}
+{"u_id":["user with this 用户ID already exists."]}
+{'u_id': '93', 'name': 'Simeon Simeonov', 'title': '', 'bio': '\nSerial entrepreneur from half a dozen startups. Angel investor. Former VC. Built the first Web application server way back in the Web 1.0 days.\n', 'workfor': '32081'}
+{"u_id":["user with this 用户ID already exists."]}

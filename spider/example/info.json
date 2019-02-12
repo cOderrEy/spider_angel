@@ -1,0 +1,32 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "name": "Chartbeat",
+    "legalName": null,
+    "url": "http://www.chartbeat.com",
+    "logo": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/79156-580f3527243bcb36f275150a69325f38-medium_jpg.jpg?buster=1510685301",
+    "foundingDate": null,
+    "founders": [
+        {
+            "@type": "Person",
+            "name": "Billy Chasen",
+            "image": "https://d1qb2nb5cznatu.cloudfront.net/users/117897-medium_jpg?1405493559",
+            "sameAs": [
+                "https://angel.co/billychasen"
+            ]
+        }
+    ],
+    "numberOfEmployees": "51-200",
+    "address": [
+        {
+            "addressCountry": "United States",
+            "addressLocality": "New York",
+            "addressRegion": "New York"
+        }
+    ],
+    "sameAs": [
+        "http://twitter.com/@chartbeat",
+        "http://www.facebook.com/chartbeat",
+        "https://www.linkedin.com/company/chartbeat.com"
+    ]
+}

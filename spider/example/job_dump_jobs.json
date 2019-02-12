@@ -1,0 +1,90 @@
+{
+    "type": false,
+    "result": {
+        "jobs": {
+            "Software Engineering Jobs": [
+                {
+                    "name": "Senior Software Engineer",
+                    "link": "https://angel.co/fountain-inc/jobs/401791-senior-software-engineer",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": "$140k \u2013 $150k \u00b7 No equity"
+                }
+            ],
+            "Design Jobs": [
+                {
+                    "name": "Product Designer",
+                    "link": "https://angel.co/fountain-inc/jobs/416844-product-designer",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": "$90k \u2013 $120k \u00b7 No equity"
+                }
+            ],
+            "Sales Jobs": [
+                {
+                    "name": "VP of Sales",
+                    "link": "https://angel.co/fountain-inc/jobs/489122-vp-of-sales",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": 0
+                },
+                {
+                    "name": "Sales Development Representative",
+                    "link": "https://angel.co/fountain-inc/jobs/491645-sales-development-representative",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": 0
+                },
+                {
+                    "name": "Mid-Market Account Executive",
+                    "link": "https://angel.co/fountain-inc/jobs/491646-mid-market-account-executive",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": 0
+                },
+                {
+                    "name": "Enterprise Account Executive",
+                    "link": "https://angel.co/fountain-inc/jobs/491647-enterprise-account-executive",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": 0
+                }
+            ],
+            "Marketing Jobs": [
+                {
+                    "name": "Senior Product Marketing Manager",
+                    "link": "https://angel.co/fountain-inc/jobs/401786-senior-product-marketing-manager",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": "$120k \u2013 $150k \u00b7 No equity"
+                }
+            ],
+            "Operations Jobs": [
+                {
+                    "name": "Executive Assistant to the CEO",
+                    "link": "https://angel.co/fountain-inc/jobs/401790-executive-assistant-to-the-ceo",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": "$80k \u2013 $120k \u00b7 No equity"
+                },
+                {
+                    "name": "Customer Success Manager",
+                    "link": "https://angel.co/fountain-inc/jobs/481238-customer-success-manager",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": 0
+                },
+                {
+                    "name": "Customer Onboarding Manager",
+                    "link": "https://angel.co/fountain-inc/jobs/481239-customer-onboarding-manager",
+                    "type": "Full Time",
+                    "working_place": "San Francisco",
+                    "salary": 0
+                }
+            ]
+        },
+        "name": "Fountain",
+        "page": "https://angel.co/fountain-inc",
+        "id": "557342"
+    }
+}

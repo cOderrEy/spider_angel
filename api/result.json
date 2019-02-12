@@ -1,0 +1,2746 @@
+[
+    {
+        "type": true,
+        "result": {
+            "name": "ReadMe",
+            "content": "ReadMe makes your developer documentation beautiful, interactive, and personalized.With ReadMe, build developer portals that combine support, tutorials, topical guides and API exploration. ReadMe makes it trivial to keep docs up-to-date and has community oriented features that help drive adoption.Try it free for 14-days. No credit card required. ",
+            "location": "San Francisco",
+            "tags": [
+                "Developer APIs",
+                "Developer Tools"
+            ],
+            "contact": [
+                "https://twitter.com/readmeio",
+                "https://www.producthunt.com/posts/readme-4"
+            ],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://readme.io",
+            "employees": [
+                {
+                    "id": "174790",
+                    "name": "Gregory Koberger",
+                    "title": "CEO",
+                    "bio": "Founder "
+                },
+                {
+                    "id": "7540171",
+                    "name": "Mary Hoffbeck",
+                    "title": "Office Manager",
+                    "bio": ""
+                },
+                {
+                    "id": "7914000",
+                    "name": "Madison Yocum",
+                    "title": "Product Design",
+                    "bio": "Product Designer and Entrepreneur | Co-founder & CDO of Udio Ventures\n"
+                },
+                {
+                    "id": "5164379",
+                    "name": "Ehsan Mafi",
+                    "title": "Employee",
+                    "bio": "Works at ReadMe"
+                },
+                {
+                    "id": "8652143",
+                    "name": "Dom Harrington",
+                    "title": "Employee",
+                    "bio": "Engineering Manager at ReadMe"
+                }
+            ],
+            "page": "https://angel.co/readme",
+            "id": "430327"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Stitch",
+            "content": "Stitch is the world\u2019s leading companionship and activity site for older adults.Adults 50+ now make up almost half of the US population, control 70% of all wealth and are growing twice as fast as any other demographic. This is a huge market which has traditionally been underserved by tech companies \u2026 and the biggest issue it faces is loneliness.  As we age, our social circles inevitably shrink,\n\u2026 \u00b7  driven by divorce, illness, relocation and death. This means those over 50 are the loneliest generations alive today \u2013 and loneliness is worse for a senior\u2019s health than obesity or smoking. Many older adults have lots of things they want to do, but nobody to do them with. Stitch meets this need with a unique and vibrant social network with the ability to meet other like-minded people through member-driven group activities, travel, and one-on-one companionship. Stitch was named by Ford as one of the top trends for 2016 and is poised to become a major global cultural phenomenon.",
+            "location": "Sydney",
+            "tags": [
+                "San Francisco",
+                "Travel",
+                "Baby Boomers",
+                "Online Dating",
+                "Online Friendship"
+            ],
+            "contact": [
+                "https://twitter.com/stitchdotnet",
+                "https://facebook.com/stitchcompanionship",
+                "https://www.linkedin.com/company/stitch-company"
+            ],
+            "numberOfEmployees": "1-10",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                },
+                {
+                    "addressCountry": "Australia",
+                    "addressLocality": "Sydney",
+                    "addressRegion": "New South Wales"
+                }
+            ],
+            "font_page": "http://www.stitch.net",
+            "employees": [
+                {
+                    "id": "170282",
+                    "name": "Marcie Rogo",
+                    "title": "",
+                    "bio": "\nHead of Marketing "
+                },
+                {
+                    "id": "107562",
+                    "name": "Andrew Dowling",
+                    "title": "",
+                    "bio": "\nFounder and CEO of "
+                }
+            ],
+            "page": "https://angel.co/stitch",
+            "id": "383006"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Placenote",
+            "content": "Placenote is a Y-combinator backed augmented reality (AR) startup building a cloud-based visual mapping SDK for mobile AR apps. We believe that AR will fundamentally change how we interact with the web and the physical world around us.Our vision is to make navigating the real world as easy as navigating the web. To do this, we've built an SDK to help developers add 3D maps to their AR apps\n\u2026 \u00b7  so they can build persistent, shared AR experiences, indoors, in a robust, low-cost manner without beacons, markers or GPS. We're passionate about the potential for advanced computer vision and machine learning algorithms scaled by the distribution advantage of mobile. As a team, we stay abreast of the latest research in Computer Vision particularly in Monocular SLAM, Machine Learning, Scene Recognition, Object Recognition and Structure from motion to name a few. ",
+            "location": "Kitchener",
+            "tags": [
+                "San Francisco",
+                "Robotics",
+                "Computer Vision",
+                "Augmented Reality",
+                "High Performance Computing"
+            ],
+            "contact": [
+                "http://twitter.com/placenotesdk"
+            ],
+            "numberOfEmployees": "1-10",
+            "address": [
+                {
+                    "addressCountry": "Canada",
+                    "addressLocality": "Kitchener",
+                    "addressRegion": "Ontario"
+                },
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://placenote.com",
+            "employees": [
+                {
+                    "id": "606819",
+                    "name": "Neil Mathew",
+                    "title": "",
+                    "bio": "\nFounder "
+                },
+                {
+                    "id": "705840",
+                    "name": "Prasenjit Mukherjee",
+                    "title": "",
+                    "bio": "\nI build Augmented Reality at @tryvertical (YC W15). Lots of Robots, Drones and AI in my life (@clearpathrobots, "
+                },
+                {
+                    "id": "1164093",
+                    "name": "Yan Ma",
+                    "title": "",
+                    "bio": "\nFounder "
+                }
+            ],
+            "page": "https://angel.co/verticalai",
+            "id": "458987"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Fountain",
+            "content": "Fountain enables companies to rapidly build independent work forces. All the background checks, document signing, scheduling, city management in one clean dashboard. Quickly and easily scale your workforce across multiple cities or job positions.See why Fountain is the fastest way to build a workforce at ",
+            "location": "San Francisco",
+            "tags": [
+                "SaaS",
+                "Recruiting",
+                "Temporary Staffing",
+                "Enterprise Software"
+            ],
+            "contact": [
+                "https://twitter.com/Fountain_Inc",
+                "https://www.facebook.com/onboardiq",
+                "https://www.linkedin.com/company/4858006/"
+            ],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://www.fountain.com",
+            "employees": [
+                {
+                    "id": "127362",
+                    "name": "Keith Ryu",
+                    "title": "Employee",
+                    "bio": "Cofounder/CEO "
+                },
+                {
+                    "id": "1242698",
+                    "name": "Joseph Zaghloul",
+                    "title": "Employee",
+                    "bio": "Co-founder of "
+                },
+                {
+                    "id": "1275103",
+                    "name": "Robyn Sater",
+                    "title": "Employee",
+                    "bio": "Worked at "
+                },
+                {
+                    "id": "2580015",
+                    "name": "Kyle Proctor",
+                    "title": "Account Executive",
+                    "bio": ""
+                },
+                {
+                    "id": "699395",
+                    "name": "Paul Okuda",
+                    "title": "Front End Engineer",
+                    "bio": "Carnegie Mellon University 2016."
+                },
+                {
+                    "id": "1317309",
+                    "name": "Jennifer M. Kim",
+                    "title": "Customer Success Manager",
+                    "bio": "Currently wearing the customer success hat at Fountain (formerly OnboardIQ). Graduated from the University of Southern California with a B.A. in Sociology."
+                },
+                {
+                    "id": "6071309",
+                    "name": "Kyle",
+                    "title": "Account Executive",
+                    "bio": "Account Executive at OnboardIQ \n"
+                },
+                {
+                    "id": "6367072",
+                    "name": "Mira Muhlfelder",
+                    "title": "Employee",
+                    "bio": "UC Berkeley Molecular and Cell Biology '18; European Innovation Academy Program Moderator, Empowered at UC Berkeley Cofounder; Undergraduate Researcher"
+                },
+                {
+                    "id": "6661830",
+                    "name": "Vicky Park",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "2123635",
+                    "name": "Justin Kazwell",
+                    "title": "Head of Marketing",
+                    "bio": "Head of Marketing at Fountain. Founder & CEO of Tribute. Have worked in Ad-Tech for the past decade. Demand generation is my forte."
+                },
+                {
+                    "id": "5425422",
+                    "name": "Trevor O'Donoghue",
+                    "title": "Employee",
+                    "bio": "Experience with Biotechnology, High tech, general HR functions, and Full Cycle Recruiting."
+                },
+                {
+                    "id": "6924448",
+                    "name": "Rochell Rotenberg",
+                    "title": "Recruitment Coordinator ",
+                    "bio": ""
+                },
+                {
+                    "id": "2542481",
+                    "name": "Owen Song",
+                    "title": "Lead Engineer",
+                    "bio": "Lead Engineer at Fountain (prev. OnboardIQ)"
+                },
+                {
+                    "id": "7074457",
+                    "name": "Jaci Sanchez",
+                    "title": "",
+                    "bio": "Worked at Fountain, Job Mobz, and Fairmont"
+                },
+                {
+                    "id": "251877",
+                    "name": "Zhichao Han",
+                    "title": "Lead Software Engineer",
+                    "bio": "A full stack developer who is experienced in building business analytics platforms."
+                },
+                {
+                    "id": "8180631",
+                    "name": "Ryan Huo",
+                    "title": "Employee",
+                    "bio": ""
+                }
+            ],
+            "page": "https://angel.co/fountain-inc",
+            "id": "557342"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Funding Circle",
+            "content": "Funding Circle was created with a big idea: to revolutionize the antiquated banking system and secure a better deal for everyone. Thousands of loans later, we\u2019ve helped businesses grow, investors prosper and the economy flourish. And we\u2019ve taken this progress global. Funding Circle is now the world\u2019s leading online marketplace lender exclusively focused on small business.",
+            "location": "Krystal Hosting",
+            "tags": [
+                "London",
+                "Small and Medium Businesses"
+            ],
+            "contact": [
+                "http://twitter.com/FundingCircle"
+            ],
+            "numberOfEmployees": "51-200",
+            "address": [
+                {
+                    "addressCountry": "United Kingdom",
+                    "addressLocality": "London",
+                    "addressRegion": "England"
+                }
+            ],
+            "font_page": "http://fundingcircle.com",
+            "employees": [
+                {
+                    "id": "269001",
+                    "name": "Matt Gibb",
+                    "title": "Employee",
+                    "bio": "Co-founder & CEO LendLayer (acquired by PayPal cofounder Max Levchin @ Affirm)  | PhD Machine Learning Oxford"
+                },
+                {
+                    "id": "596668",
+                    "name": "Stuart Robinson",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "447346",
+                    "name": "James Cook",
+                    "title": "Web Developer",
+                    "bio": "Software Developer "
+                },
+                {
+                    "id": "673596",
+                    "name": "Robert Crim",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "153783",
+                    "name": "Nik Milanovi\u0107",
+                    "title": "Employee",
+                    "bio": "Head of Strategy "
+                },
+                {
+                    "id": "143463",
+                    "name": "Rohit Sharma",
+                    "title": "Employee",
+                    "bio": "Head of Product "
+                },
+                {
+                    "id": "382305",
+                    "name": "Eamonn Gahan",
+                    "title": "Employee",
+                    "bio": "Full stack developer"
+                },
+                {
+                    "id": "831411",
+                    "name": "Sara Riedl",
+                    "title": "",
+                    "bio": ""
+                },
+                {
+                    "id": "1577596",
+                    "name": "Scott Chong",
+                    "title": "Employee",
+                    "bio": ""
+                }
+            ],
+            "page": "https://angel.co/funding-circle",
+            "id": "563189"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Stitch",
+            "page": "https://angel.co/stitch",
+            "id": "383006"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Honor",
+            "content": "Honor, a home care company, is the founder of the Honor Care Network, a pioneering national network of home care providers. Honor is the first company ever to bring scalable workforce management and technology expertise together with the high-touch, personalized care of local homegrown care agencies. Working with Care Network Partners, Honor helps older adults live safely and comfortably in their\n\u2026 \u00b7  own home by enabling  reliable, transparent, high-quality care. Founded in 2015, Honor is now one of the fastest-growing, non-medical home care companies in the U.S., currently providing care to families in California, Texas, and New Mexico.",
+            "location": "San Francisco",
+            "tags": [
+                "Consumer",
+                "Healthcare"
+            ],
+            "contact": [
+                "http://twitter.com/honor",
+                "http://facebook.com/joinhonor",
+                "https://www.linkedin.com/company/joinhonor"
+            ],
+            "numberOfEmployees": "51-200",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "https://www.joinhonor.com",
+            "employees": [
+                {
+                    "id": "6497",
+                    "name": "Renato Vald\u00e9s Olmos",
+                    "title": "Employee",
+                    "bio": "Head of Design at "
+                },
+                {
+                    "id": "1496498",
+                    "name": "Natasha Vianna",
+                    "title": "Communications",
+                    "bio": "Working at "
+                },
+                {
+                    "id": "2225682",
+                    "name": "Dian Ford",
+                    "title": "On-call caregiver ",
+                    "bio": "Attended northwest college for nursing,  worked as a caregiver for 7 years , currently working at honor on a guarantee contract"
+                },
+                {
+                    "id": "664574",
+                    "name": "Melissa Morris",
+                    "title": "Human Resources",
+                    "bio": "HR, operations and communications professional specializing in tech startups"
+                },
+                {
+                    "id": "726868",
+                    "name": "Todd Anderson",
+                    "title": "",
+                    "bio": "I like complicated subject areas with difficult constraints."
+                },
+                {
+                    "id": "445087",
+                    "name": "Emily King",
+                    "title": "Product Designer",
+                    "bio": "Design at Honor, previously Rock Health, USC"
+                },
+                {
+                    "id": "3162077",
+                    "name": "Jenna Luthy",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "3243891",
+                    "name": "Suzanne Adatto",
+                    "title": "",
+                    "bio": ", formerly impact investor and "
+                },
+                {
+                    "id": "2796158",
+                    "name": "Sarah Buchsbaum",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "1281729",
+                    "name": "Caleb Duren",
+                    "title": "Product Designer",
+                    "bio": "User experience and interface designer, developer in San Francisco."
+                },
+                {
+                    "id": "4907915",
+                    "name": "Cameron Tuttle",
+                    "title": "Editorial Director",
+                    "bio": "Brand Voice Expert, Content Creator, Brand Builder, Bestselling Author"
+                },
+                {
+                    "id": "3805390",
+                    "name": "Macy Fujiu",
+                    "title": "",
+                    "bio": "Experience both in-house and agency.  Worked for top tech companies like Google and Salesforce. Start-up experience as well with Kissmetrics, Medallia, and more"
+                },
+                {
+                    "id": "1698761",
+                    "name": "Prince Carandang",
+                    "title": "Partnerships",
+                    "bio": "Executive MBA Candidate, Pepperdine"
+                },
+                {
+                    "id": "167473",
+                    "name": "Juliet Nyatta",
+                    "title": "Care Operations",
+                    "bio": "Operations "
+                },
+                {
+                    "id": "482223",
+                    "name": "Caroline Jones",
+                    "title": "Recruiter",
+                    "bio": "Self- Driven, Highly Organized, Creative, Start Up Experience, Chaos Calmer"
+                },
+                {
+                    "id": "920476",
+                    "name": "Shachar Bry",
+                    "title": "Head of Growth - Supply",
+                    "bio": "Experienced leader passionate about strategy and business operations with emphasis on execution, and growth in a fast moving and collaborative environment."
+                },
+                {
+                    "id": "2153962",
+                    "name": "Nicholas Graham",
+                    "title": "Marketing and Event Manager",
+                    "bio": "Marketer and Community Builder / Marketing and Event Manager "
+                },
+                {
+                    "id": "3438612",
+                    "name": "Jonathan Quach",
+                    "title": "Sales Operations & Enablement",
+                    "bio": "Sales Process, Sales Operations/ Logistics minded, Detail Oriented, Analytical. Experienced Salesforce Admin."
+                },
+                {
+                    "id": "6675827",
+                    "name": "Nandita Sommers",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "2461890",
+                    "name": "Gage Newman",
+                    "title": "Software Engineer",
+                    "bio": "Software Engineer at "
+                },
+                {
+                    "id": "6848559",
+                    "name": "Tully Ryan Gibney",
+                    "title": "Care Consultant",
+                    "bio": "Worked at Honor"
+                },
+                {
+                    "id": "6478434",
+                    "name": "Ami Doshi",
+                    "title": "Partner Care Manager ",
+                    "bio": "Hands-on project manager with strong attention to detail, communication skills, and ability to work cross functionally at all levels of an organization. "
+                },
+                {
+                    "id": "6036382",
+                    "name": "Rachel Hunter",
+                    "title": "Inside Sales ",
+                    "bio": "I am a results oriented team leader with over 4 years of success improving quality, leading cross-collaborative teams and driving continuous improvement."
+                },
+                {
+                    "id": "672766",
+                    "name": "Randy Allen",
+                    "title": "VP Sales",
+                    "bio": "Investor: "
+                },
+                {
+                    "id": "1808835",
+                    "name": "Brittany Lin",
+                    "title": "Director of Partner Success",
+                    "bio": "Stanford MBA with focus on digital health, food innovation, and fitness tech | ex-Googler"
+                },
+                {
+                    "id": "7449584",
+                    "name": "Holly Murphree",
+                    "title": "Senior Recruiter",
+                    "bio": "Worked at Honor"
+                },
+                {
+                    "id": "7874682",
+                    "name": "Olivia Muesse",
+                    "title": "Product Design Manager",
+                    "bio": "Works at Honor"
+                }
+            ],
+            "page": "https://angel.co/honor",
+            "id": "622539"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Senior Software Engineer",
+                        "link": "https://angel.co/fountain-inc/jobs/401791-senior-software-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$140k \u2013 $150k \u00b7 No equity"
+                    }
+                ],
+                "Design Jobs": [
+                    {
+                        "name": "Product Designer",
+                        "link": "https://angel.co/fountain-inc/jobs/416844-product-designer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$90k \u2013 $120k \u00b7 No equity"
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "VP of Sales",
+                        "link": "https://angel.co/fountain-inc/jobs/489122-vp-of-sales",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Sales Development Representative",
+                        "link": "https://angel.co/fountain-inc/jobs/491645-sales-development-representative",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Mid-Market Account Executive",
+                        "link": "https://angel.co/fountain-inc/jobs/491646-mid-market-account-executive",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Enterprise Account Executive",
+                        "link": "https://angel.co/fountain-inc/jobs/491647-enterprise-account-executive",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "Senior Product Marketing Manager",
+                        "link": "https://angel.co/fountain-inc/jobs/401786-senior-product-marketing-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$120k \u2013 $150k \u00b7 No equity"
+                    }
+                ],
+                "Operations Jobs": [
+                    {
+                        "name": "Executive Assistant to the CEO",
+                        "link": "https://angel.co/fountain-inc/jobs/401790-executive-assistant-to-the-ceo",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$80k \u2013 $120k \u00b7 No equity"
+                    },
+                    {
+                        "name": "Customer Success Manager",
+                        "link": "https://angel.co/fountain-inc/jobs/481238-customer-success-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Customer Onboarding Manager",
+                        "link": "https://angel.co/fountain-inc/jobs/481239-customer-onboarding-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ]
+            },
+            "name": "Fountain",
+            "page": "https://angel.co/fountain-inc",
+            "id": "557342"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "ProducePay",
+            "content": "ProducePay is helping farmers feed the world by solving the two deepest pain points in the agricultural industry: access to working capital financing and produce procurement. Our product is at the intersection between tech, finance, and agriculture. Based in Downtown Los Angeles, we\u2019ve raised over $85MM to create the agricultural trade\u2019s first ever online trading platform for perishable food and\n\u2026 \u00b7  have built a financial solution for hundreds of growers, distributors, and receivers across the world.Produce Pay is changing the produce industry, an industry as old as human civilization, for good. We\u2019ve built a team of insanely talented, ambitious problem-solvers to do so and we\u2019re just getting started. Come be part of our amazing journey!",
+            "location": "Los Angeles",
+            "tags": [
+                "Fin Tech",
+                "Payments",
+                "Agriculture",
+                "Finance Technology"
+            ],
+            "contact": [
+                "https://twitter.com/ProducePay",
+                "https://www.facebook.com/ProducePay/",
+                "https://www.linkedin.com/company/9187989"
+            ],
+            "numberOfEmployees": "51-200",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "Los Angeles",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://www.producepay.com",
+            "employees": [
+                {
+                    "id": "1097513",
+                    "name": "Jacob Lee",
+                    "title": "Finance / Operation Manager",
+                    "bio": "Have intern experiences in Venture Capital, and Investment Banking."
+                },
+                {
+                    "id": "1421844",
+                    "name": "Ben Dusastre",
+                    "title": "CFO",
+                    "bio": "Experienced startup CFO.  Previously head of family office for multi billionaire family and worked for investment bank Credit Suisse prior. UCLA MBA"
+                },
+                {
+                    "id": "1817375",
+                    "name": "Megane Pullman (Racat)",
+                    "title": "Employee",
+                    "bio": "Engineer turned entrepreneur passionate about tech // R&D "
+                },
+                {
+                    "id": "5677488",
+                    "name": "ben dusastre",
+                    "title": "",
+                    "bio": ""
+                },
+                {
+                    "id": "232391",
+                    "name": "Gilles Marchand",
+                    "title": "Chief Product Officer & GM Trading",
+                    "bio": "Chief Product Officer "
+                },
+                {
+                    "id": "7361119",
+                    "name": "Maggie Cheng",
+                    "title": "Public Relations",
+                    "bio": ""
+                },
+                {
+                    "id": "3934595",
+                    "name": "Danny DeValdenebro",
+                    "title": "Director of Underwriting",
+                    "bio": "ProducePay, Goldman Sachs 10ksb. Business Analyst, Business Planning, Business Strategy. Went to University of Texas at Dallas, Vanderbilt University"
+                },
+                {
+                    "id": "7407075",
+                    "name": "Rui Wang",
+                    "title": "Finance Manager",
+                    "bio": ""
+                },
+                {
+                    "id": "7761911",
+                    "name": "Jeremy Hudson",
+                    "title": "Finance Intern",
+                    "bio": ""
+                },
+                {
+                    "id": "7201439",
+                    "name": "Ian Rawluk",
+                    "title": "Controller",
+                    "bio": "Controller at Produce Pay; Licensed CPA; USC Masters Graduate"
+                },
+                {
+                    "id": "8009037",
+                    "name": "Jessica England",
+                    "title": "HR Manager",
+                    "bio": ""
+                }
+            ],
+            "page": "https://angel.co/produce-pay",
+            "id": "683596"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Machine Vision Engineer",
+                        "link": "https://angel.co/verticalai/jobs/333927-machine-vision-engineer",
+                        "type": "Full Time",
+                        "working_place": "Kitchener, Remote",
+                        "salary": "$70k \u2013 $80k \u00b7 0.5% \u2013 2.0%"
+                    },
+                    {
+                        "name": "Mobile Fullstack Engineer",
+                        "link": "https://angel.co/verticalai/jobs/464387-mobile-fullstack-engineer",
+                        "type": "Full Time",
+                        "working_place": "Kitchener, San Francisco Bay Area, Remote",
+                        "salary": "$70k \u2013 $150k \u00b7 0.5% \u2013 1.5%"
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "Marketing & Sales Development Rep",
+                        "link": "https://angel.co/verticalai/jobs/464373-marketing-sales-development-rep",
+                        "type": "Full Time",
+                        "working_place": "Kitchener, San Francisco Bay Area, Remote",
+                        "salary": "$55k \u2013 $65k \u00b7 No equity"
+                    }
+                ]
+            },
+            "name": "Placenote",
+            "page": "https://angel.co/verticalai",
+            "id": "458987"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Node Product Developer",
+                        "link": "https://angel.co/readme/jobs/64296-node-product-developer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$100k \u2013 $135k \u00b7 0.5% \u2013 1.5%"
+                    }
+                ],
+                "Design Jobs": [
+                    {
+                        "name": "Product Designer",
+                        "link": "https://angel.co/readme/jobs/449809-product-designer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$110k \u2013 $120k \u00b7 0.1% \u2013 0.3%"
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "Customer Success Manager",
+                        "link": "https://angel.co/readme/jobs/468025-customer-success-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$80k \u2013 $100k \u00b7 0.1% \u2013 0.3%"
+                    }
+                ]
+            },
+            "name": "ReadMe",
+            "page": "https://angel.co/readme",
+            "id": "430327"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Lovepop",
+            "content": "Lovepop creates intricate laser-cut paper sculptures that pop out of a seemingly ordinary card.  Lovepops are unexpected, tangible, and personal, forming a lasting impression and sticking around as a piece of display art.  Started by two naval architects and ship builders, Lovepop uses advanced 3-D modeling software to design the cards.  ",
+            "location": "Boston",
+            "tags": [
+                "Retail",
+                "E-Commerce"
+            ],
+            "contact": [
+                "https://twitter.com/lovepop",
+                "https://business.facebook.com/lovepopcards/",
+                "https://www.linkedin.com/company/lovepop-cards"
+            ],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "Boston",
+                    "addressRegion": "Massachusetts"
+                }
+            ],
+            "font_page": "https://lovepop.com",
+            "employees": [
+                {
+                    "id": "24754",
+                    "name": "Adrian Gill",
+                    "title": "Employee",
+                    "bio": "Former Vice President of the Global Footwear Division at Puma"
+                },
+                {
+                    "id": "1101759",
+                    "name": "Colin Spillane",
+                    "title": "Head of Retail",
+                    "bio": "Head of Retail for "
+                },
+                {
+                    "id": "1457919",
+                    "name": "Jozef Karpiel",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "1458100",
+                    "name": "Kathie Zhang",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "565759",
+                    "name": "Jennifer Ngo",
+                    "title": "Manager of Store Design and Experience",
+                    "bio": "launching retail markets and spreading magical 3D pop up cards for "
+                },
+                {
+                    "id": "1609912",
+                    "name": "Brenna Sorkin",
+                    "title": "Brand Ambassador",
+                    "bio": "Product Management Intern at Stratasys, Designer/3D Printing Lead at Cyborg Medic, Product Design Intern at GrabCAD,"
+                },
+                {
+                    "id": "609010",
+                    "name": "Dariush Nejad",
+                    "title": "Prototyping and Office Manager",
+                    "bio": ""
+                },
+                {
+                    "id": "1131984",
+                    "name": "Thomas Herer",
+                    "title": "Acquisition Marketing Coordinator",
+                    "bio": "Acquisition Marketing Coordinator "
+                },
+                {
+                    "id": "2351641",
+                    "name": "Sammy Nave",
+                    "title": "Software Engineer",
+                    "bio": "Software Engineer at lovepop"
+                },
+                {
+                    "id": "1052253",
+                    "name": "Cody Canning",
+                    "title": "Engineer",
+                    "bio": "Software developer and researcher in behavioral robotics, Clojure nut, interested in predictive and autonomous systems."
+                },
+                {
+                    "id": "4394303",
+                    "name": "Calli Moore",
+                    "title": "Assistant Area Manager NYC",
+                    "bio": ""
+                },
+                {
+                    "id": "5200788",
+                    "name": "Lars Holzman",
+                    "title": "Head of Engineering",
+                    "bio": ""
+                },
+                {
+                    "id": "5713605",
+                    "name": "Michael Esposito",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "839202",
+                    "name": "Hugo Lemes",
+                    "title": "Architectural Designer",
+                    "bio": "Architectural Designer at Lovepop Cards and Instructional Design and Technology Masters student at Brandeis University"
+                },
+                {
+                    "id": "1878744",
+                    "name": "Noah Megregian",
+                    "title": "Strategic Growth Associate",
+                    "bio": "Leveraging a technical background to improve the account management processes in startups. "
+                },
+                {
+                    "id": "258807",
+                    "name": "Larry McSheffery",
+                    "title": "Head of Talent",
+                    "bio": "Talent professional with over 10 years experience building teams and companies from high growth VC funded startups to multinational companies."
+                },
+                {
+                    "id": "7899732",
+                    "name": "Michael Abbate",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "8230570",
+                    "name": "Samuel Wheeler",
+                    "title": "Sourcer",
+                    "bio": ""
+                }
+            ],
+            "page": "https://angel.co/lovepop",
+            "id": "726119"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Funding Circle",
+            "page": "https://angel.co/funding-circle",
+            "id": "563189"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Honeypot",
+            "content": "",
+            "location": "San Francisco",
+            "tags": [
+                "Farming",
+                "Clean Technology"
+            ],
+            "contact": [],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "https://angel.co/honeypot",
+            "employees": [
+                {
+                    "id": "1404969",
+                    "name": "Neil F",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "2300789",
+                    "name": "Roger Jones",
+                    "title": "Employee",
+                    "bio": "Engineer "
+                },
+                {
+                    "id": "8016276",
+                    "name": "Vasiliki Iliadi",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "99093",
+                    "name": "Herman Ng",
+                    "title": "Employee",
+                    "bio": "Product & Code at AngelList. Ex- "
+                },
+                {
+                    "id": "535884",
+                    "name": "Tiffany Wu",
+                    "title": "Employee",
+                    "bio": "Currently at "
+                },
+                {
+                    "id": "8724796",
+                    "name": "ibrahim testing",
+                    "title": "Employee",
+                    "bio": ""
+                }
+            ],
+            "page": "https://angel.co/honeypot",
+            "id": "778235"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Guideline",
+            "content": "Guideline 401(k). Helping people save for a better future.By offering a full-stack solution that automates plan administration and compliance, the Guideline team is combatting what\u2019s unfortunately become the retirement industry status quo -- legacy providers have put profit over the interests of employees, abandoning the goal of the program in the first place: to give employees the opportunity\n\u2026 \u00b7  to save as much as possible for retirement.Listed on The Fintech 250 '17 - CBInsights ",
+            "location": "Portland",
+            "tags": [
+                "San Mateo",
+                "Retirement",
+                "Financial Services",
+                "Finance Technology",
+                "Small and Medium Businesses"
+            ],
+            "contact": [
+                "https://twitter.com/guideline401k",
+                "https://www.facebook.com/guidelinetechnologies",
+                "https://www.linkedin.com/company/guideline"
+            ],
+            "numberOfEmployees": "51-200",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Mateo",
+                    "addressRegion": "California"
+                },
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "Portland",
+                    "addressRegion": "Maine"
+                }
+            ],
+            "font_page": "https://www.guideline.com",
+            "employees": [
+                {
+                    "id": "1381351",
+                    "name": "Carl Kim",
+                    "title": "Software Engineer",
+                    "bio": "Car junky -> Guideline Technologies (current)"
+                },
+                {
+                    "id": "1686501",
+                    "name": "Nicolle Willson",
+                    "title": "Senior Financial Advisor",
+                    "bio": ""
+                },
+                {
+                    "id": "640862",
+                    "name": "Carol B. Ho",
+                    "title": "General Counsel & Chief Compliance Officer",
+                    "bio": "Attorney"
+                },
+                {
+                    "id": "1151752",
+                    "name": "Rosanna Leroe-Mu\u00f1oz",
+                    "title": "Director of Client Development",
+                    "bio": "Director of Client Development at Guideline. Experience with complex investment products and FinTech. Berkeley alum - GO Bears!"
+                },
+                {
+                    "id": "2238717",
+                    "name": "Erin Girard",
+                    "title": "Product Designer",
+                    "bio": "Product Designer who thrives in complex industries. Previously designed the first certified 401(k) robo-advisor, now working on the first OS for global trade."
+                },
+                {
+                    "id": "1530845",
+                    "name": "Joyce Buensuceso",
+                    "title": "People Ops/Human Resources",
+                    "bio": "People Ops/HR  "
+                },
+                {
+                    "id": "1420508",
+                    "name": "Elantha Barry",
+                    "title": "Director, Customer Success",
+                    "bio": ""
+                },
+                {
+                    "id": "2404537",
+                    "name": "Kyla Renta",
+                    "title": "Account Specialist",
+                    "bio": "UCSB graduate, Enterprise Sales Representative at Oracle for 2.5 years, Customer Success Manager at OpenGov for 6 months"
+                },
+                {
+                    "id": "124014",
+                    "name": "Jeff Rosenberger",
+                    "title": "Employee",
+                    "bio": "COO at Guideline.  Previously Product Strategy at Earnest and VP Research & Customer Development at Wealthfront.  PhD in MS&E from Stanford."
+                },
+                {
+                    "id": "4888568",
+                    "name": "Kamille Vera",
+                    "title": "Operations Associate",
+                    "bio": "Plan Operations Associate "
+                },
+                {
+                    "id": "2115815",
+                    "name": "Robert Boggs",
+                    "title": "Software Engineer",
+                    "bio": "Software Engineer"
+                },
+                {
+                    "id": "1440158",
+                    "name": "Jason Williams",
+                    "title": "Employee",
+                    "bio": "Experienced startup and corporate manager (Earnest, Zenefits, Apple). Demonstrated success in scaling teams, partner management, and project management."
+                },
+                {
+                    "id": "221575",
+                    "name": "Ben Lingard",
+                    "title": "Software Engineer",
+                    "bio": "Software Engineer at Guideline"
+                },
+                {
+                    "id": "2059145",
+                    "name": "Rowena Guo",
+                    "title": "Operations",
+                    "bio": "Operations Associate "
+                },
+                {
+                    "id": "1228155",
+                    "name": "Robert Lamour",
+                    "title": "Operations",
+                    "bio": "I am a solutions-focused individual with experience overseeing daily operations and investment activity. "
+                },
+                {
+                    "id": "2528653",
+                    "name": "Tiffanie Lee",
+                    "title": "Customer Success",
+                    "bio": "Customer Success at Guideline"
+                },
+                {
+                    "id": "2081443",
+                    "name": "Alex Kemper",
+                    "title": "Account Executive",
+                    "bio": ""
+                },
+                {
+                    "id": "677339",
+                    "name": "Melissa Stern",
+                    "title": "Customer Success Associate",
+                    "bio": "Customer Success\n"
+                },
+                {
+                    "id": "1786479",
+                    "name": "Brian McDermott",
+                    "title": "Account Coordinator",
+                    "bio": ""
+                },
+                {
+                    "id": "2457745",
+                    "name": "Diane Hoang",
+                    "title": "Operations Associate",
+                    "bio": "Compliance Operations at Guideline. Former Intern at Zscaler. SCU English major with a CS minor. Aspiring writer."
+                },
+                {
+                    "id": "6583822",
+                    "name": "Creighton Higgins",
+                    "title": "Software Engineer",
+                    "bio": "Developer at Guideline"
+                },
+                {
+                    "id": "6583840",
+                    "name": "Chris Kelly",
+                    "title": "Software Engineer",
+                    "bio": "Software Engineer "
+                },
+                {
+                    "id": "6765293",
+                    "name": "Nicole Paulides",
+                    "title": "Senior Channel Coordinator",
+                    "bio": "Worked at Guideline, Juniper Networks. Experience with Distribution, Marketing Management, Management. Went to Indiana University"
+                },
+                {
+                    "id": "1606712",
+                    "name": "Thomas Buley",
+                    "title": "Director of Finance",
+                    "bio": " "
+                },
+                {
+                    "id": "1043016",
+                    "name": "Matt Chalwell",
+                    "title": "Visual Designer",
+                    "bio": ""
+                },
+                {
+                    "id": "7483117",
+                    "name": "Katie Goldberg",
+                    "title": "VP, Marketing",
+                    "bio": ""
+                },
+                {
+                    "id": "186364",
+                    "name": "Stephanie Lyman",
+                    "title": "Employee",
+                    "bio": ""
+                },
+                {
+                    "id": "8518693",
+                    "name": "Tina Nguyen",
+                    "title": "Director of Talent",
+                    "bio": ""
+                },
+                {
+                    "id": "2229271",
+                    "name": "Stephen Wenzler",
+                    "title": "Onboarding Specialist",
+                    "bio": "Onboarding Specialist @ Guideline"
+                }
+            ],
+            "page": "https://angel.co/guideline",
+            "id": "800691"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Sr. Full-Stack Software Engineer",
+                        "link": "https://angel.co/produce-pay/jobs/307022-sr-full-stack-software-engineer",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": "$115k \u2013 $145k \u00b7 0.0% \u2013 0.25%"
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "Head of Partnerships",
+                        "link": "https://angel.co/produce-pay/jobs/398244-head-of-partnerships",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": "$135k \u2013 $180k \u00b7 0.05% \u2013 0.1%"
+                    }
+                ],
+                "Operations Jobs": [
+                    {
+                        "name": "FinTech Internship - H1B Sponsorship",
+                        "link": "https://angel.co/produce-pay/jobs/382138-fintech-internship-h1b-sponsorship",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": "$27k \u2013 $28k \u00b7 No equity"
+                    },
+                    {
+                        "name": "Staff Accountant - H1B Sponsorship",
+                        "link": "https://angel.co/produce-pay/jobs/384215-staff-accountant-h1b-sponsorship",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": "$46k \u2013 $50k \u00b7 No equity"
+                    },
+                    {
+                        "name": "Chief Risk Officer",
+                        "link": "https://angel.co/produce-pay/jobs/457750-chief-risk-officer",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": "$200k \u2013 $220k \u00b7 0.25% \u2013 0.5%"
+                    },
+                    {
+                        "name": "Financial Analyst",
+                        "link": "https://angel.co/produce-pay/jobs/473251-financial-analyst",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": "$48k \u2013 $50k \u00b7 No equity"
+                    }
+                ]
+            },
+            "name": "ProducePay",
+            "page": "https://angel.co/produce-pay",
+            "id": "683596"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Numerai",
+            "content": "Numerai is a global artificial intelligence tournament to predict the stock market. You download our data, build a model, and upload your predictions. Because we encrypt our datasets with structure-preserving encryption techniques, we're able to give away all of our data for free. This turns the stock market into a machine learning problem \u2014 so you don\u2019t need to know anything about finance to\n\u2026 \u00b7  participate. We believe there is predictive power in distributed artificial intelligence \u2014 so we built a hedge fund for you, that\u2019s going to trade your predictions. You don't need capital. You don't need data. You just apply your mind.",
+            "location": "San Francisco",
+            "tags": [
+                "Hedge Funds",
+                "Machine Learning"
+            ],
+            "contact": [
+                "https://twitter.com/numerai",
+                "https://www.linkedin.com/company/10303433?",
+                "https://www.producthunt.com/posts/numerai"
+            ],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://numer.ai",
+            "employees": [
+                {
+                    "id": "2035521",
+                    "name": "Jonathan Bruce Sidego",
+                    "title": "Imagineer",
+                    "bio": ""
+                },
+                {
+                    "id": "1193049",
+                    "name": "Natasha-Jade Chandler",
+                    "title": "VP of Communications",
+                    "bio": "Communications "
+                },
+                {
+                    "id": "2620086",
+                    "name": "Matt Boyd",
+                    "title": "President & COO",
+                    "bio": "President & COO "
+                },
+                {
+                    "id": "6969606",
+                    "name": "John DiCerbo",
+                    "title": "Controller",
+                    "bio": "Controller at Numerai"
+                },
+                {
+                    "id": "397527",
+                    "name": "Anson Chu",
+                    "title": "VP Engineering",
+                    "bio": "VP Engineering "
+                },
+                {
+                    "id": "7777965",
+                    "name": "Benjamin Brimacombe",
+                    "title": "Intern",
+                    "bio": "Worked at Numerai"
+                },
+                {
+                    "id": "6313450",
+                    "name": "Eugenio Noyola",
+                    "title": "Employee",
+                    "bio": "Passionate about design, display of Information, how technology can help sort and clarify our view of data in useful ways  and how we interact with technology."
+                },
+                {
+                    "id": "697113",
+                    "name": "Arvid Ali",
+                    "title": "Head of Talent",
+                    "bio": "Head of Talent"
+                },
+                {
+                    "id": "467830",
+                    "name": "Jacob Baumbach",
+                    "title": "Employee",
+                    "bio": "I graduated with a mathematical economics degree(GPA: 3.85) and spent a year abroad at the London School of Economics."
+                }
+            ],
+            "page": "https://angel.co/numerai",
+            "id": "940914"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Principal UI Engineer",
+                        "link": "https://angel.co/lovepop/jobs/300773-principal-ui-engineer",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": "$120k \u2013 $150k \u00b7 No equity"
+                    },
+                    {
+                        "name": "SAP ABAP Developer",
+                        "link": "https://angel.co/lovepop/jobs/467341-sap-abap-developer",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Software Engineer, Occasions",
+                        "link": "https://angel.co/lovepop/jobs/488055-software-engineer-occasions",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    }
+                ],
+                "Design Jobs": [
+                    {
+                        "name": "3D Rendering Intern (Winter 2019)",
+                        "link": "https://angel.co/lovepop/jobs/470458-3d-rendering-intern-winter-2019",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior UX Designer",
+                        "link": "https://angel.co/lovepop/jobs/488783-senior-ux-designer",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "Retail Sales Associate - Boston",
+                        "link": "https://angel.co/lovepop/jobs/438391-retail-sales-associate-boston",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Lenox Square",
+                        "link": "https://angel.co/lovepop/jobs/438392-retail-sales-associate-lenox-square",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - The Florida Mall",
+                        "link": "https://angel.co/lovepop/jobs/438393-retail-sales-associate-the-florida-mall",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Seasonal Retail Sales Associate - New York",
+                        "link": "https://angel.co/lovepop/jobs/438397-seasonal-retail-sales-associate-new-york",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Dadeland",
+                        "link": "https://angel.co/lovepop/jobs/438398-retail-sales-associate-dadeland",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Aventura",
+                        "link": "https://angel.co/lovepop/jobs/438400-retail-sales-associate-aventura",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Suburban Station, Philadelphia",
+                        "link": "https://angel.co/lovepop/jobs/438402-retail-sales-associate-suburban-station-philadelphia",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Pentagon City",
+                        "link": "https://angel.co/lovepop/jobs/438404-retail-sales-associate-pentagon-city",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Tysons Corner Center",
+                        "link": "https://angel.co/lovepop/jobs/438405-retail-sales-associate-tysons-corner-center",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Sales Associate - Disney Springs",
+                        "link": "https://angel.co/lovepop/jobs/438408-retail-sales-associate-disney-springs",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Location Manager - Natick",
+                        "link": "https://angel.co/lovepop/jobs/438409-retail-location-manager-natick",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Retail Location Manager - New York",
+                        "link": "https://angel.co/lovepop/jobs/438411-retail-location-manager-new-york",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Seasonal Retail Sales Associate - Epcot",
+                        "link": "https://angel.co/lovepop/jobs/450470-seasonal-retail-sales-associate-epcot",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "PR Director",
+                        "link": "https://angel.co/lovepop/jobs/439979-pr-director",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Marketing Associate",
+                        "link": "https://angel.co/lovepop/jobs/475888-marketing-associate",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Marketing Operations Coordinator",
+                        "link": "https://angel.co/lovepop/jobs/480915-marketing-operations-coordinator",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    }
+                ],
+                "Operations Jobs": [
+                    {
+                        "name": "VP of Supply Chain Operations",
+                        "link": "https://angel.co/lovepop/jobs/451720-vp-of-supply-chain-operations",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Shipping Coordinator",
+                        "link": "https://angel.co/lovepop/jobs/473801-shipping-coordinator",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Payroll Coordinator",
+                        "link": "https://angel.co/lovepop/jobs/485498-payroll-coordinator",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior Accountant",
+                        "link": "https://angel.co/lovepop/jobs/486567-senior-accountant",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    }
+                ],
+                "Other Jobs": [
+                    {
+                        "name": "Data Scientist",
+                        "link": "https://angel.co/lovepop/jobs/438407-data-scientist",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Product Manager - Web & e-commerce",
+                        "link": "https://angel.co/lovepop/jobs/465999-product-manager-web-e-commerce",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Associate Data Scientist",
+                        "link": "https://angel.co/lovepop/jobs/473259-associate-data-scientist",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Insights Intern",
+                        "link": "https://angel.co/lovepop/jobs/475273-insights-intern",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Merchandising Product Manager, Wholesale",
+                        "link": "https://angel.co/lovepop/jobs/485698-merchandising-product-manager-wholesale",
+                        "type": "Full Time",
+                        "working_place": "Boston",
+                        "salary": 0
+                    }
+                ]
+            },
+            "name": "Lovepop",
+            "page": "https://angel.co/lovepop",
+            "id": "726119"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Test",
+                        "link": "https://angel.co/honeypot/jobs/391492-test",
+                        "type": "Full Time",
+                        "working_place": "Alabama",
+                        "salary": 0
+                    }
+                ]
+            },
+            "name": "Honeypot",
+            "page": "https://angel.co/honeypot",
+            "id": "778235"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Scale AI",
+            "content": "Scale accelerates the development of AI applications by helping computer vision teams generate high-quality ground truth data. Our advanced LiDAR, video, and image annotation APIs allow self-driving, drone, and robotics teams at companies like nuTonomy, Nuro, Voyage, Embark, Lyft, Pinterest, and Airbnb focus on building differentiated models vs. labeling data.",
+            "location": "San Francisco",
+            "tags": [
+                "Developer APIs",
+                "Developer Tools",
+                "Machine Learning",
+                "Business Process Outsourcing"
+            ],
+            "contact": [
+                "https://www.linkedin.com/company/scaleai/",
+                "https://www.producthunt.com/posts/scale"
+            ],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "https://scale.ai/",
+            "employees": [
+                {
+                    "id": "6018933",
+                    "name": "Nathaniel Herman",
+                    "title": "Employee",
+                    "bio": "Engineer at "
+                },
+                {
+                    "id": "4071790",
+                    "name": "Zhichun Li",
+                    "title": "Scaler Operations Lead",
+                    "bio": "Passionate about products and changing the world through investments."
+                },
+                {
+                    "id": "607434",
+                    "name": "Ricardo Rauch",
+                    "title": "Employee",
+                    "bio": "Worked at "
+                },
+                {
+                    "id": "586562",
+                    "name": "Guido Leandro Maliandi",
+                    "title": "Employee",
+                    "bio": "Software engineer at Scale API"
+                },
+                {
+                    "id": "7483712",
+                    "name": "David Kinsella",
+                    "title": "Business",
+                    "bio": "Business "
+                },
+                {
+                    "id": "8045278",
+                    "name": "Chan Kwon",
+                    "title": "Growth Lead",
+                    "bio": "Vancouver native, with a 4-year stint in the Midwest at WashU in St. Louis, and now back on the Westcoast in San Francisco leading growth at Scale API."
+                },
+                {
+                    "id": "8045277",
+                    "name": "Atra Kermani",
+                    "title": "Employee",
+                    "bio": "Recruiting at Scale"
+                },
+                {
+                    "id": "1388486",
+                    "name": "Richard Ni",
+                    "title": "Head of People",
+                    "bio": "Recruiting "
+                },
+                {
+                    "id": "7734231",
+                    "name": "Suehee Lee",
+                    "title": "QA Contractor",
+                    "bio": "Software Engineer. Mongo Express React Node.js stack. Always up for a challenge."
+                },
+                {
+                    "id": "1441634",
+                    "name": "Steven Salka",
+                    "title": "Frontend Engineer",
+                    "bio": "Engineering @ Scale\n"
+                },
+                {
+                    "id": "8644219",
+                    "name": "Viktoriya Pavlenko",
+                    "title": "Employee",
+                    "bio": "Currently working at Scale API."
+                },
+                {
+                    "id": "1183113",
+                    "name": "Monica Bret\u00f3n",
+                    "title": "Recruiter ",
+                    "bio": "Recruiter at Scale "
+                }
+            ],
+            "page": "https://angel.co/scaleapi",
+            "id": "1160092"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Principal Backend Engineer",
+                        "link": "https://angel.co/honor/jobs/385947-principal-backend-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Trainer - Care Pro",
+                        "link": "https://angel.co/honor/jobs/444076-trainer-care-pro",
+                        "type": "Full Time",
+                        "working_place": "Los Angeles",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Trainer - Care Pro",
+                        "link": "https://angel.co/honor/jobs/449748-trainer-care-pro",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Growth Engineer",
+                        "link": "https://angel.co/honor/jobs/488373-growth-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Frontend Engineer",
+                        "link": "https://angel.co/honor/jobs/490739-frontend-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Full Stack Engineer",
+                        "link": "https://angel.co/honor/jobs/490740-full-stack-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior iOS Engineer",
+                        "link": "https://angel.co/honor/jobs/490741-senior-ios-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior Software Engineer",
+                        "link": "https://angel.co/honor/jobs/491593-senior-software-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ],
+                "Design Jobs": [
+                    {
+                        "name": "Lead Product Designer",
+                        "link": "https://angel.co/honor/jobs/262103-lead-product-designer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$110k \u2013 $130k \u00b7 0.01% \u2013 0.01%"
+                    },
+                    {
+                        "name": "Brand Marketing Designer",
+                        "link": "https://angel.co/honor/jobs/416678-brand-marketing-designer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "Market Development Manager",
+                        "link": "https://angel.co/honor/jobs/359025-market-development-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$65k \u2013 $75k \u00b7 0.01% \u2013 0.1%"
+                    },
+                    {
+                        "name": "Inside Sales Representative",
+                        "link": "https://angel.co/honor/jobs/385935-inside-sales-representative",
+                        "type": "Full Time",
+                        "working_place": "Concord",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Director of Business Development",
+                        "link": "https://angel.co/honor/jobs/385938-director-of-business-development",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Program Manager, Partner Implementations",
+                        "link": "https://angel.co/honor/jobs/385943-program-manager-partner-implementations",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior Account Executive",
+                        "link": "https://angel.co/honor/jobs/410309-senior-account-executive",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "VP Business & Corporate Development",
+                        "link": "https://angel.co/honor/jobs/423468-vp-business-corporate-development",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Client Manager, Partnerships",
+                        "link": "https://angel.co/honor/jobs/428850-client-manager-partnerships",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Director of Business Development",
+                        "link": "https://angel.co/honor/jobs/428852-director-of-business-development",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$150k \u2013 $200k \u00b7 0.01% \u2013 1.0%"
+                    },
+                    {
+                        "name": "Market Development Manager",
+                        "link": "https://angel.co/honor/jobs/428856-market-development-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Local Sales Representative ",
+                        "link": "https://angel.co/honor/jobs/450028-local-sales-representative",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "People Strategy Manager",
+                        "link": "https://angel.co/honor/jobs/460050-people-strategy-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Director Sales Operations",
+                        "link": "https://angel.co/honor/jobs/483409-director-sales-operations",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Partner Growth Manager",
+                        "link": "https://angel.co/honor/jobs/486542-partner-growth-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Partner Growth Manager",
+                        "link": "https://angel.co/honor/jobs/489080-partner-growth-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "Director of Growth and Demand Generation",
+                        "link": "https://angel.co/honor/jobs/352232-director-of-growth-and-demand-generation",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$150k \u2013 $200k \u00b7 0.01% \u2013 1.0%"
+                    },
+                    {
+                        "name": "Regional General Manager",
+                        "link": "https://angel.co/honor/jobs/465398-regional-general-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior Copywriter",
+                        "link": "https://angel.co/honor/jobs/482943-senior-copywriter",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Care Pro Growth Marketing Lead",
+                        "link": "https://angel.co/honor/jobs/482944-care-pro-growth-marketing-lead",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ],
+                "Operations Jobs": [
+                    {
+                        "name": "Technical Recruiter",
+                        "link": "https://angel.co/honor/jobs/212204-technical-recruiter",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$75k \u2013 $125k \u00b7 0.01% \u2013 0.1%"
+                    },
+                    {
+                        "name": "Staff Accountant",
+                        "link": "https://angel.co/honor/jobs/385936-staff-accountant",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Operations Analyst, Care",
+                        "link": "https://angel.co/honor/jobs/397923-operations-analyst-care",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Controller",
+                        "link": "https://angel.co/honor/jobs/403358-controller",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior Recruiter",
+                        "link": "https://angel.co/honor/jobs/427884-senior-recruiter",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$100k \u2013 $140k \u00b7 0.01% \u2013 0.02%"
+                    },
+                    {
+                        "name": "HR Associate",
+                        "link": "https://angel.co/honor/jobs/441388-hr-associate",
+                        "type": "Full Time",
+                        "working_place": "Austin",
+                        "salary": 0
+                    },
+                    {
+                        "name": "HR Associate",
+                        "link": "https://angel.co/honor/jobs/441389-hr-associate",
+                        "type": "Full Time",
+                        "working_place": "Concord",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Director of Operations Strategy",
+                        "link": "https://angel.co/honor/jobs/445365-director-of-operations-strategy",
+                        "type": "Full Time",
+                        "working_place": "Austin",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Learning and Development Program Manager",
+                        "link": "https://angel.co/honor/jobs/450737-learning-and-development-program-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Human Resources Director ",
+                        "link": "https://angel.co/honor/jobs/456089-human-resources-director",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "On-boarding Associate",
+                        "link": "https://angel.co/honor/jobs/458465-on-boarding-associate",
+                        "type": "Full Time",
+                        "working_place": "Austin",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Business Operations Associate",
+                        "link": "https://angel.co/honor/jobs/481185-business-operations-associate",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Accounts Receivable Specialist",
+                        "link": "https://angel.co/honor/jobs/488372-accounts-receivable-specialist",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ],
+                "Management Jobs": [
+                    {
+                        "name": "Director of Client Management",
+                        "link": "https://angel.co/honor/jobs/455527-director-of-client-management",
+                        "type": "Full Time",
+                        "working_place": "Austin",
+                        "salary": 0
+                    }
+                ],
+                "Other Jobs": [
+                    {
+                        "name": "Associate, Care Strategy",
+                        "link": "https://angel.co/honor/jobs/346224-associate-care-strategy",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$90k \u2013 $110k \u00b7 0.01% \u2013 0.1%"
+                    },
+                    {
+                        "name": "Manager, Care Strategy",
+                        "link": "https://angel.co/honor/jobs/346227-manager-care-strategy",
+                        "type": "Full Time",
+                        "working_place": "San Francisco Bay Area, San Francisco, Concord",
+                        "salary": "$110k \u2013 $130k \u00b7 0.01% \u2013 0.1%"
+                    },
+                    {
+                        "name": "Product Manager",
+                        "link": "https://angel.co/honor/jobs/385939-product-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Senior Manager, Care Strategy",
+                        "link": "https://angel.co/honor/jobs/445875-senior-manager-care-strategy",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Data Scientist",
+                        "link": "https://angel.co/honor/jobs/482580-data-scientist",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Partner Care Pro Onboarding, Senior Manager",
+                        "link": "https://angel.co/honor/jobs/482942-partner-care-pro-onboarding-senior-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Director of Partner Development",
+                        "link": "https://angel.co/honor/jobs/486541-director-of-partner-development",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Data Analyst",
+                        "link": "https://angel.co/honor/jobs/487610-data-analyst",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Product Manager",
+                        "link": "https://angel.co/honor/jobs/491594-product-manager",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": 0
+                    }
+                ]
+            },
+            "name": "Honor",
+            "page": "https://angel.co/honor",
+            "id": "622539"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Cambridge Bio-Augmentation",
+            "content": "The connector for bionics in the body: a high-functionality, lower-cost and longer lifetime system for treating chronic conditions with bionic technologies.Tech:It's like a USB port for the body. Our Implant & Api system enables any bionic device, artificial limb or bioelectronic medicine to quickly integrate and interact with the body and automatically manage the health of a patient.\n\u2026 \u00b7  Our core ip covers implantation & monitoring methods for soft-tissue and communication, connection and control of neural and bionic devices.Market:Devices that will each offer longterm care-as-a-service for a specific chronic condition, an opportunity worth $22bn.Team:Founded by Cambridge University PhD researchers with backgrounds in biomaterials and machine learning & neural systems. Our team includes experienced medical device engineers, clinicians, and machine learning & neural-processing researchers. Our advisors founded & exited 8 companies in both the healthcare and technology sectors.",
+            "location": "Cambridge",
+            "tags": [
+                "Neuroscience",
+                "Biotechnology",
+                "Machine Learning",
+                "Internet of Things"
+            ],
+            "contact": [],
+            "numberOfEmployees": "",
+            "address": [
+                {
+                    "addressCountry": "United Kingdom",
+                    "addressLocality": "Cambridge",
+                    "addressRegion": "England"
+                }
+            ],
+            "font_page": "http://www.cbas.global",
+            "employees": [
+                {
+                    "id": "1115354",
+                    "name": "Emil Hewage",
+                    "title": "",
+                    "bio": "\nFounder \u2022 Worked at "
+                },
+                {
+                    "id": "5993050",
+                    "name": "Oliver Armitage",
+                    "title": "",
+                    "bio": "\nCo-Founder into bionics and human augmentation. Previous scientist at the University of Cambridge\n"
+                }
+            ],
+            "page": "https://angel.co/cambridge-bio-augmentation-systems-1",
+            "id": "3823838"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Ruby Engineer",
+                        "link": "https://angel.co/guideline/jobs/463834-ruby-engineer",
+                        "type": "Full Time",
+                        "working_place": "Austin",
+                        "salary": "$130k \u2013 $150k \u00b7 0.001% \u2013 0.001%"
+                    },
+                    {
+                        "name": "Ruby Engineer",
+                        "link": "https://angel.co/guideline/jobs/463835-ruby-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": "$140k \u2013 $160k \u00b7 0.001% \u2013 0.001%"
+                    },
+                    {
+                        "name": "Ruby Engineer",
+                        "link": "https://angel.co/guideline/jobs/463836-ruby-engineer",
+                        "type": "Full Time",
+                        "working_place": "Portland",
+                        "salary": "$120k \u2013 $140k \u00b7 0.001% \u2013 0.001%"
+                    }
+                ],
+                "Design Jobs": [
+                    {
+                        "name": "Product Designer",
+                        "link": "https://angel.co/guideline/jobs/257647-product-designer",
+                        "type": "Full Time",
+                        "working_place": "Portland, San Mateo",
+                        "salary": "$130k \u2013 $90k \u00b7 0.0% \u2013 0.25%"
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "Channel Sales Account Executive",
+                        "link": "https://angel.co/guideline/jobs/472616-channel-sales-account-executive",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Account Manager",
+                        "link": "https://angel.co/guideline/jobs/485100-account-manager",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "Copywriter",
+                        "link": "https://angel.co/guideline/jobs/466318-copywriter",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Director of Growth Marketing",
+                        "link": "https://angel.co/guideline/jobs/467953-director-of-growth-marketing",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    }
+                ],
+                "Operations Jobs": [
+                    {
+                        "name": "Senior Technical Recruiter",
+                        "link": "https://angel.co/guideline/jobs/463837-senior-technical-recruiter",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": "$110k \u2013 $130k \u00b7 0.001% \u2013 0.001%"
+                    },
+                    {
+                        "name": "Director of Customer Operations",
+                        "link": "https://angel.co/guideline/jobs/479321-director-of-customer-operations",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    },
+                    {
+                        "name": "Controller",
+                        "link": "https://angel.co/guideline/jobs/492020-controller",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    },
+                    {
+                        "name": "People Operations Associate",
+                        "link": "https://angel.co/guideline/jobs/492379-people-operations-associate",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": 0
+                    }
+                ],
+                "Other Jobs": [
+                    {
+                        "name": "Director of Product",
+                        "link": "https://angel.co/guideline/jobs/463831-director-of-product",
+                        "type": "Full Time",
+                        "working_place": "San Mateo",
+                        "salary": "$150k \u2013 $170k \u00b7 0.001% \u2013 0.001%"
+                    }
+                ]
+            },
+            "name": "Guideline",
+            "page": "https://angel.co/guideline",
+            "id": "800691"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Pit.AI Technologies",
+            "content": "Pit.AI Technologies is an AI-powered hedge fund charging no management fees. Unlike traditional quantitative hedge funds which require humans (Quants) to postulate a trading hypothesis before doing any machine learning, we build AI-Quants to generate lucrative trading hypotheses, directly from the data.We are on a mission to solve intelligence for investment management, and make hedge funds\n\u2026 \u00b7  management fees a thing of the past.",
+            "location": "San Jose",
+            "tags": [
+                "Hedge Funds",
+                "Artificial Intelligence"
+            ],
+            "contact": [],
+            "numberOfEmployees": "1-10",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Jose",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "https://www.pit.ai",
+            "employees": [
+                {
+                    "id": "5993333",
+                    "name": "Yves-Laurent Kom Samo",
+                    "title": "",
+                    "bio": "\nFounder & CEO "
+                }
+            ],
+            "page": "https://angel.co/pitaitechnologies",
+            "id": "3824108"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Earth Energy Power Snacks",
+            "content": "Earth Energy creates and sells convenient grab-and-go \"power snacks\" that are 100% all natural, vegan, and gluten free. Our products are handmade using ethically and locally sourced high-quality ingredients, and packaged with eco-friendly materials. They are high in protein and fiber, free from trans fats and cholesterol, and sweetened with organic Ohio maple syrup. Earth Energy bites\n\u2026 \u00b7  and power balls make great breakfasts, pre- or post-workout fuel, or healthy midday snacks. We are a customer driven company and will always be extremely transparent with our business practices, including our commitment to caring for the Earth. Good for you and for the planet!",
+            "location": "Kent",
+            "tags": [
+                "Health Foods",
+                "Farmers Market",
+                "Specialty Foods",
+                "Food and Beverages"
+            ],
+            "contact": [],
+            "numberOfEmployees": null,
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "Kent",
+                    "addressRegion": "Ohio"
+                }
+            ],
+            "font_page": "http://www.facebook.com/EarthEnergyTreats",
+            "employees": [],
+            "page": "https://angel.co/earth-energy-power-snacks",
+            "id": "3828666"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Backend Engineer",
+                        "link": "https://angel.co/scaleapi/jobs/164289-backend-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$100k \u2013 $140k \u00b7 0.0% \u2013 0.3%"
+                    },
+                    {
+                        "name": "Machine Learning Engineer",
+                        "link": "https://angel.co/scaleapi/jobs/223565-machine-learning-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$100k \u2013 $140k \u00b7 0.0% \u2013 0.3%"
+                    }
+                ]
+            },
+            "name": "Scale AI",
+            "page": "https://angel.co/scaleapi",
+            "id": "1160092"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Pit.AI Technologies",
+            "page": "https://angel.co/pitaitechnologies",
+            "id": "3824108"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Chowbotics",
+            "content": "Our company\u2019s first product, Sally the Salad Robot, allows users to create custom salads. Proprietary technology ensures precise caloric counts and protects the integrity of ingredients, keeping them fresh, sanitary, and separate.  Future robots will offer breakfast as well as Mexican and other ethnic foods. These robots could be used in cafeterias, restaurants, hotels and other commercial venues.\n\u2026 \u00b7  Chowbotics (formerly Casabots), was founded by Dr. Deepak Sekar, an inventor with more than one hundred patents. He serves as the CEO. Rich Page, an Apple Fellow who joined Steve Jobs as Co-Founder and VP at NeXT, is Executive Chairman. Investors include Techstars Ventures, Foundry Group, Galvanize Ventures, Geekdom Fund.",
+            "location": "Redwood City",
+            "tags": [
+                "Cafes",
+                "Hotels",
+                "Restaurants"
+            ],
+            "contact": [],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "Redwood City",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://www.chowbotics.com",
+            "employees": [
+                {
+                    "id": "6819433",
+                    "name": "Slaton Smith",
+                    "title": "Vice President of Marketing",
+                    "bio": "Sales exec backed by more than a decade of restaurant marketing, ops and media experience."
+                },
+                {
+                    "id": "1580620",
+                    "name": "Shelley Janes",
+                    "title": "Director of Sales",
+                    "bio": "Director of Sales at Chowbotics | Head of Partnerships at CarDash | Previous CEO at SideDoor \u2022 Studied at "
+                },
+                {
+                    "id": "7654861",
+                    "name": "Gang Huang",
+                    "title": "VP of Hardware",
+                    "bio": "VP of Hardware at Chowbotics"
+                },
+                {
+                    "id": "8522402",
+                    "name": "Kendall Baker",
+                    "title": "Employee",
+                    "bio": ""
+                }
+            ],
+            "page": "https://angel.co/chowbotics",
+            "id": "3876019"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Earth Energy Power Snacks",
+            "page": "https://angel.co/earth-energy-power-snacks",
+            "id": "3828666"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Backend Engineer",
+                        "link": "https://angel.co/numerai/jobs/282173-backend-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$130k \u2013 $175k \u00b7 0.1% \u2013 0.4%"
+                    },
+                    {
+                        "name": "Fullstack Web Developer",
+                        "link": "https://angel.co/numerai/jobs/334114-fullstack-web-developer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$120k \u2013 $160k \u00b7 0.1% \u2013 0.4%"
+                    },
+                    {
+                        "name": "Infrastructure Engineer",
+                        "link": "https://angel.co/numerai/jobs/371750-infrastructure-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$120k \u2013 $160k \u00b7 0.2% \u2013 0.4%"
+                    },
+                    {
+                        "name": "Blockchain Engineer - Ethereum Smart Contracts",
+                        "link": "https://angel.co/numerai/jobs/424835-blockchain-engineer-ethereum-smart-contracts",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$130k \u2013 $160k \u00b7 0.1% \u2013 0.4%"
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "Product Strategy and Development Associate",
+                        "link": "https://angel.co/numerai/jobs/357096-product-strategy-and-development-associate",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$100k \u2013 $150k \u00b7 0.1% \u2013 0.2%"
+                    },
+                    {
+                        "name": "Head of Growth & Marketing - Blockchain",
+                        "link": "https://angel.co/numerai/jobs/410267-head-of-growth-marketing-blockchain",
+                        "type": "Full Time",
+                        "working_place": "San Francisco, San Francisco Bay Area",
+                        "salary": "$120k \u2013 $160k \u00b7 0.1% \u2013 0.4%"
+                    }
+                ]
+            },
+            "name": "Numerai",
+            "page": "https://angel.co/numerai",
+            "id": "940914"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Titan Partners",
+            "content": "Titan Partners is a private investment partnership focused on venture and growth equity for pioneering financial technology businesses.",
+            "location": "Zocdoc",
+            "tags": [
+                "Zenefits",
+                "Uber",
+                "Tachyus",
+                "SoFi",
+                "Ripple",
+                "Nutanix",
+                "Lending Club",
+                "Freebird",
+                "DocuSign",
+                "Quilt",
+                "Orchard Platform",
+                "EverQuote",
+                "Klarna",
+                "New York City",
+                "VC Firm"
+            ],
+            "contact": [
+                "http://www.linkedin.com/company/titan-partners-llc"
+            ],
+            "numberOfEmployees": "",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "New York",
+                    "addressRegion": "New York"
+                }
+            ],
+            "font_page": "http://titan-partners.com/",
+            "employees": [
+                {
+                    "id": "6511896",
+                    "name": "Rafael Telahun",
+                    "title": "",
+                    "bio": "\nFinancial Technology\n"
+                }
+            ],
+            "page": "https://angel.co/titan-partners",
+            "id": "3881095"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "lvl5",
+            "content": "** Please send applications through Hire () **lvl5 builds HD maps for self-driving cars using computer vision.  Our iPhone app, Payver, () has thousands of drivers, sending us terabytes of driving data each day.We receive video and other telemetry measurements from our fleet, and run advanced computer vision algorithms on\n\u2026 \u00b7  the data to map the roads with high precision -- down to just a few centimeters.  Unlike traditional maps, HD maps contain all the nitty-gritty details of the road, such as where the car should look for traffic lights, and how to turn through a complex intersection.  We work directly with automakers, and also with Tier 1 manufacturers to provide intelligent driver assist products as well as full localization capabilities for a \"Level 5\" self-driving vehicle.",
+            "location": "San Francisco",
+            "tags": [],
+            "contact": [
+                "https://www.linkedin.com/company/18019620/"
+            ],
+            "numberOfEmployees": "11-50",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "http://www.lvl5.ai",
+            "employees": [
+                {
+                    "id": "1181257",
+                    "name": "Andrew Kouri",
+                    "title": "",
+                    "bio": "\nlvl5 Founder\n"
+                },
+                {
+                    "id": "3383305",
+                    "name": "George Tall",
+                    "title": "",
+                    "bio": "\n\n"
+                }
+            ],
+            "page": "https://angel.co/lvl5",
+            "id": "3920111"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Fetch",
+            "content": "Fetch is creating the future of car rental. Fetch is a platform for individuals to rent cars instantly using just their phones. With Fetch, fleet owners can create an automated rental fleet without any of the overhead of a traditional rental business.",
+            "location": "Atlanta",
+            "tags": [
+                "Mobile",
+                "Technology",
+                "Automotive",
+                "Transportation"
+            ],
+            "contact": [
+                "https://www.producthunt.com/posts/fetch-7"
+            ],
+            "numberOfEmployees": "1-10",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "Atlanta",
+                    "addressRegion": "Georgia"
+                }
+            ],
+            "font_page": "http://fetchtruck.com",
+            "employees": [
+                {
+                    "id": "985565",
+                    "name": "Adam Steinberg",
+                    "title": "",
+                    "bio": "\nFounder Fetch, PlacePunch (acq 2011)\u2022 Worked at "
+                }
+            ],
+            "page": "https://angel.co/fetch-21",
+            "id": "4108716"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Cambridge Bio-Augmentation",
+            "page": "https://angel.co/cambridge-bio-augmentation-systems-1",
+            "id": "3823838"
+        }
+    },
+    {
+        "type": true,
+        "result": {
+            "name": "Huckleberry",
+            "content": "Huckleberry is rebuilding small business insurance from the ground up. In a multi-trillion dollar industry where paper forms and fax machines still predominate, and customers are wasting countless hours navigating byzantine processes, we provide small business owners with the capability to manage all of their insurance needs through a single, elegant interface. Our team is rethinking every aspect\n\u2026 \u00b7  of the experience, from using a conversational AI based chat bot in place of an agent, to using machine learning to expedite and verify the underwriting process.",
+            "location": "San Francisco",
+            "tags": [
+                "Insurance"
+            ],
+            "contact": [],
+            "numberOfEmployees": "1-10",
+            "address": [
+                {
+                    "addressCountry": "United States",
+                    "addressLocality": "San Francisco",
+                    "addressRegion": "California"
+                }
+            ],
+            "font_page": "https://www.huckleberry.co",
+            "employees": [
+                {
+                    "id": "262316",
+                    "name": "Steven Au",
+                    "title": "",
+                    "bio": "\nCTO "
+                },
+                {
+                    "id": "203177",
+                    "name": "Bryan O'Connell",
+                    "title": "",
+                    "bio": "\nFounder "
+                }
+            ],
+            "page": "https://angel.co/huckleberry-insurance",
+            "id": "4140151"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Software Engineer",
+                        "link": "https://angel.co/fetch-21/jobs/447594-software-engineer",
+                        "type": "Full Time",
+                        "working_place": "Atlanta",
+                        "salary": 0
+                    }
+                ]
+            },
+            "name": "Fetch",
+            "page": "https://angel.co/fetch-21",
+            "id": "4108716"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "lvl5",
+            "page": "https://angel.co/lvl5",
+            "id": "3920111"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Chowbotics",
+            "page": "https://angel.co/chowbotics",
+            "id": "3876019"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {},
+            "name": "Titan Partners",
+            "page": "https://angel.co/titan-partners",
+            "id": "3881095"
+        }
+    },
+    {
+        "type": false,
+        "result": {
+            "jobs": {
+                "Software Engineering Jobs": [
+                    {
+                        "name": "Senior Full Stack Engineer",
+                        "link": "https://angel.co/huckleberry-insurance/jobs/246297-senior-full-stack-engineer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$90k \u2013 $140k \u00b7 0.1% \u2013 0.5%"
+                    }
+                ],
+                "Sales Jobs": [
+                    {
+                        "name": "Sales & Customer Support Associate",
+                        "link": "https://angel.co/huckleberry-insurance/jobs/406783-sales-customer-support-associate",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$50k \u2013 $70k \u00b7 0.01% \u2013 0.1%"
+                    }
+                ],
+                "Marketing Jobs": [
+                    {
+                        "name": "Growth Marketer",
+                        "link": "https://angel.co/huckleberry-insurance/jobs/470985-growth-marketer",
+                        "type": "Full Time",
+                        "working_place": "San Francisco",
+                        "salary": "$80k \u2013 $120k \u00b7 0.05% \u2013 0.5%"
+                    }
+                ]
+            },
+            "name": "Huckleberry",
+            "page": "https://angel.co/huckleberry-insurance",
+            "id": "4140151"
+        }
+    }
+]
